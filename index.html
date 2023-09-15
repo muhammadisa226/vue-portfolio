@@ -21,12 +21,8 @@
         const backtotop = document.querySelector("#back-to-top");
         if (window.pageYOffset > fixednav) {
           header.classList.add("navbar-fixed");
-          backtotop.classList.remove("hidden");
-          backtotop.classList.add("flex");
         } else {
           header.classList.remove("navbar-fixed");
-          backtotop.classList.add("hidden");
-          backtotop.classList.remove("flex");
         }
       };
     </script>
