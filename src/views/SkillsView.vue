@@ -1,5 +1,5 @@
 <template>
-  <section id="skill" class="pt-36 pb-32 dark:bg-slate-300">
+  <section id="skill" class="pt-36 pb-32 dark:bg-dark ">
     <div class="container">
       <div class="w-full px-4">
         <div class="mx-auto text-center mb-16">
@@ -7,7 +7,7 @@
             Skills
           </h4>
           <h2
-            class="font-bold text-black text-3xl mb-4 sm:text-4xl lg:text-5xl dark:text-dark"
+            class="font-bold text-black text-3xl mb-4 sm:text-4xl lg:text-5xl dark:text-white"
           >
             Skill Language & Programming Tools
           </h2>

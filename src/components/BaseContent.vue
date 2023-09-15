@@ -110,7 +110,7 @@
     </div>
   </header>
   <slot />
-  <footer class="bg-dark pt-10 pb-10">
+  <footer class="bg-dark dark:bg-gray-800 pt-10 pb-10">
     <div class="container">
       <div class="w-full pt-10 border-slate-700">
         <div class="flex items-center justify-center text-white mb-5">
@@ -217,14 +217,14 @@
           <a
             href="https://www.instagram.com/muhissaa/"
             target="_blank"
-            class="font-bold text-primary"
+            class="font-bold text-primary dark:text-purple-500"
             >Muhammad Isa N.</a
           >, Using
-          <a href="https://vuejs.org/" class="font-bold text-green-600"
+          <a href="https://vuejs.org/" class="font-bold text-green-600 dark:text-green-400"
             >VueJS3</a
           >
           And
-          <a href="https://tailwindcss.com/" class="font-bold text-sky-600"
+          <a href="https://tailwindcss.com/" class="font-bold text-sky-600 dark:text-sky-400"
             >Tailwindcss</a
           >
           © {{ yearNow }}

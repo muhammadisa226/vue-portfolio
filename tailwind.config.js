@@ -14,9 +14,9 @@ module.exports = {
         inter: ["Inter", "sans-serif"],
       },
       colors: {
-        primary: "#8b5cf6",
+        primary: "#5b21b6",
         secondary: "#64748b",
-        dark: "#0f172a",
+        dark: "#030712",
       },
       screens: {
         "2xl": "1320px",
