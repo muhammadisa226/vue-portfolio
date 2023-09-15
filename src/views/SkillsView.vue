@@ -22,56 +22,56 @@
           <!-- html  -->
           <a
             href=""
-            class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-300 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8"
+            class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60  lg:mx-6 xl:mx-8"
           >
             <img src="../assets/images/skills/html5.png" alt="HTML" />
           </a>
           <!-- html  -->
           <a
             href=""
-            class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-300 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8"
+            class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
             <img src="../assets/images/skills/css3.png" alt="CSS" />
           </a>
           <!-- html  -->
           <a
             href=""
-            class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-300 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8"
+            class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
             <img src="../assets/images/skills/js.png" alt="JavaScript" />
           </a>
           <!-- html  -->
           <a
             href=""
-            class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-300 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8"
+            class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
             <img src="../assets/images/skills/php.png" alt="PHP" />
           </a>
           <!-- nodejs -->
           <a
             href=""
-            class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-300 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8"
+            class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
             <img src="../assets/images/skills/nodejs.png" alt="nodejs" />
           </a>
           <!-- laravel  -->
           <a
             href=""
-            class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-300 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8"
+            class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
             <img src="../assets/images/skills/laravel.png" alt="Laravel" />
           </a>
           <!-- mysql  -->
           <a
             href=""
-            class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-300 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8"
+            class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
             <img src="../assets/images/skills/mysql.png" alt="Mysql" />
           </a>
           <!-- vscode  -->
           <a
             href=""
-            class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-300 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8"
+            class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
             <img
               src="../assets/images/skills/vscode.png"

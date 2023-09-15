@@ -77,7 +77,7 @@
               <li class="mt-3 lg:mt-0 flex items-center pl-8">
                 <button
                   @click="toggledark()"
-                  class="bg-white rounded-full hover:bg-slate-200 dark:bg-dark dark:hover:bg-white"
+                  class="bg-transparent rounded-full hover:bg-gray-200  dark:hover:bg-gray-100 "
                 >
                   <span class="dark:inline end:0 cursor-pointer"
                     ><svg
