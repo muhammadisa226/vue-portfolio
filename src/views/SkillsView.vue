@@ -25,7 +25,7 @@
             target="_blank"
             class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60  lg:mx-6 xl:mx-8"
           >
-            <img src="../assets/images/skills/html5.png" alt="HTML" />
+            <img src="../assets/images/skills/html5.png" alt="HTML"   title="HTML" />
           </a>
           <!-- css  -->
           <a
@@ -33,7 +33,7 @@
             target="_blank"
             class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
-            <img src="../assets/images/skills/css3.png" alt="CSS" />
+            <img src="../assets/images/skills/css3.png" alt="CSS"   title="CSS" />
           </a>
           <!-- js  -->
           <a
@@ -41,7 +41,7 @@
             target="_blank"
             class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
-            <img src="../assets/images/skills/js.png" alt="JavaScript" />
+            <img src="../assets/images/skills/js.png" alt="JavaScript"   title="Javascript" />
           </a>
           <!-- vuejs  -->
           <a
@@ -49,7 +49,7 @@
             target="_blank"
             class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
-            <img src="../assets/images/skills/vuejs.png" alt="VueJS" />
+            <img src="../assets/images/skills/vuejs.png" alt="VueJS"   title="VueJs" />
           </a>
           <!-- nodejs -->
                <a
@@ -57,7 +57,7 @@
             target="_blank"
             class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
-            <img src="../assets/images/skills/nodejs.png" alt="nodejs" />
+            <img src="../assets/images/skills/nodejs.png" alt="nodejs"   title="NodeJs" />
           </a>
           <!-- php  -->
           <a
@@ -65,7 +65,7 @@
             target="_blank"
             class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
-            <img src="../assets/images/skills/php.png" alt="PHP" />
+            <img src="../assets/images/skills/php.png"  alt="PHP"   title="PHP" />
           </a>
 
           <!-- laravel  -->
@@ -74,7 +74,7 @@
             target="_blank"
             class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
-            <img src="../assets/images/skills/laravel.png" alt="Laravel" />
+            <img src="../assets/images/skills/laravel.png" alt="Laravel" title="Laravel" />
           </a>
           <!-- mysql  -->
           <a
@@ -82,7 +82,7 @@
             target="_blank"
             class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
-            <img src="../assets/images/skills/mysql.png" alt="Mysql" />
+            <img src="../assets/images/skills/mysql.png" alt="Mysql"   title="MySQL"  />
           </a>
           <!-- vscode  -->
           <a
@@ -92,6 +92,7 @@
           >
             <img
               src="../assets/images/skills/vscode.png"
+              title="Visual Studio Code"
               alt="Visual Studio Code"
             />
           </a>
