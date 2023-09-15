@@ -63,7 +63,7 @@
                   :to="{ name: 'skills' }"
                   class="text-base font-monserrat text-dark py-2 mx-8 flex group-hover:text-primary dark:text-white"
                 >
-                  Skill
+                  Skills
                 </RouterLink>
               </li>
               <li class="group">
