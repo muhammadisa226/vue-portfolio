@@ -22,6 +22,7 @@
           <!-- html  -->
           <a
             href="https://id.wikipedia.org/wiki/HTML"
+            target="_blank"
             class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60  lg:mx-6 xl:mx-8"
           >
             <img src="../assets/images/skills/html5.png" alt="HTML" />
@@ -29,6 +30,7 @@
           <!-- css  -->
           <a
             href="https://id.wikipedia.org/wiki/CSS_3"
+            target="_blank"
             class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
             <img src="../assets/images/skills/css3.png" alt="CSS" />
@@ -36,6 +38,7 @@
           <!-- js  -->
           <a
             href="https://id.wikipedia.org/wiki/JavaScript"
+            target="_blank"
             class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
             <img src="../assets/images/skills/js.png" alt="JavaScript" />
@@ -43,6 +46,7 @@
           <!-- vuejs  -->
           <a
             href="https://vuejs.org/"
+            target="_blank"
             class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
             <img src="../assets/images/skills/vuejs.png" alt="VueJS" />
@@ -50,6 +54,7 @@
           <!-- nodejs -->
                <a
             href="https://nodejs.org/en"
+            target="_blank"
             class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
             <img src="../assets/images/skills/nodejs.png" alt="nodejs" />
@@ -57,6 +62,7 @@
           <!-- php  -->
           <a
             href="https://www.php.net/"
+            target="_blank"
             class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
             <img src="../assets/images/skills/php.png" alt="PHP" />
@@ -65,6 +71,7 @@
           <!-- laravel  -->
           <a
             href="https://laravel.com/"
+            target="_blank"
             class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
             <img src="../assets/images/skills/laravel.png" alt="Laravel" />
@@ -72,6 +79,7 @@
           <!-- mysql  -->
           <a
             href="https://www.mysql.com/"
+            target="_blank"
             class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
             <img src="../assets/images/skills/mysql.png" alt="Mysql" />
@@ -79,6 +87,7 @@
           <!-- vscode  -->
           <a
             href="https://code.visualstudio.com/"
+            target="_blank"
             class="max-w-[120px] mx-4 py-4 dark:grayscale dark:opacity-60 transition duration-300 dark:hover:grayscale-0 dark:hover:opacity-100 hover:grayscale hover:opacity-60 lg:mx-6 xl:mx-8"
           >
             <img
