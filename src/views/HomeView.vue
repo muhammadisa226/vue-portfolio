@@ -1,12 +1,12 @@
 <template>
-  <section id="home" class="pt-36 dark:bg-dark">
-    <div class="container">
+  <section id="home" class="pt-36 lg:pt-20  dark:bg-dark lg:max-h-screen">
+    <div class="container ">
       <div class="flex flex-wrap">
         <div class="w-full self-center px-4 lg:w-1/2">
           <h1 class="text-base font-semibold text-primary md:text-xl">
             Hello Everyone 👋, I am
             <span
-              class="block font-bold text-dark text-4xl mt-1 lg:text-5xl dark:text-white"
+              class="block font-bold text-dark text-4xl mt-1 lg:text-5xl dark:text-white typingEffect"
               >Muhammad Isa Nuruddin</span
             >
           </h1>
@@ -31,4 +31,6 @@
 
 <script setup></script>
 
-<style lang="scss" scoped></style>
+<style scoped>
+
+</style>

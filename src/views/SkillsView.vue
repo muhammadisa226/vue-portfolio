@@ -1,5 +1,5 @@
 <template>
-  <section id="skill" class="pt-36 pb-32 dark:bg-dark ">
+  <section id="skill" class="pt-36 pb-32 dark:bg-dark lg:max-h-screen ">
     <div class="container">
       <div class="w-full px-4">
         <div class="mx-auto text-center mb-16">

@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 body {
-  @apply bg-white;
   @apply dark:bg-gray-950;
   @apply font-inter;
 }

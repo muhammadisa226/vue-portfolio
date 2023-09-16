@@ -1,11 +1,10 @@
 <template>
-  <Content>
-    <RouterView v-slot="{ Component }">
-      <Transition name="slide" mode="out-in">
-        <Component :is="Component" />
-      </Transition>
-    </RouterView>
-  </Content>
+  <Content />
+  <RouterView v-slot="{ Component }">
+    <Transition name="slide" mode="out-in">
+      <Component :is="Component" />
+    </Transition>
+  </RouterView>
 </template>
 
 <script setup>
