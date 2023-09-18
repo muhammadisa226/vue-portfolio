@@ -1,5 +1,5 @@
 <template>
-  <section id="aboutme" class="pt-36 pb-32 dark:bg-dark lg:max-h-screen">
+  <section id="aboutme" class="pt-36 pb-32 dark:bg-dark">
     <div class="container">
       <div class="w-full px-4">
         <div class="max-w-xl mx-auto text-center mb-16">
@@ -19,12 +19,7 @@
             About Me
           </h4>
           <p class="font-medium text-base text-secondary max-w-xl lg:text-lg">
-            As a Web Developer, I have experience in developing end-to-end web
-            applications. I have expertise in frontend development using HTML,
-            CSS, and JavaScript, along with proficiency in CSS frameworks like
-            Bootstrap and Tailwind CSS. On the backend side, I am skilled in
-            programming languages such as Python and PHP, with experience in
-            building APIs using Flask and creating websites using Laravel.
+       I am a Full Stack Web Developer with expertise in both frontend and backend development. On the frontend, I have a strong command of HTML, CSS, and JavaScript, including proficiency in JavaScript frameworks such as Vue.js. I am skilled in crafting responsive and visually appealing designs using popular CSS frameworks like Bootstrap and Tailwind. In the backend, I have extensive experience working with languages such as PHP, JavaScript (Node.js and Express.js), and Python, and I've worked with various backend frameworks, including Laravel for PHP, Express.js for JavaScript, and Flask for Python. My comprehensive skill set allows me to develop robust and responsive web applications across the full stack.
           </p>
         </div>
         <div class="w-full px-4 lg:w-1/2 mt-1">
