@@ -5,10 +5,10 @@
     <div class="container">
       <div class="flex items-center justify-between relative">
         <div class="px-4">
-          <a
-            href="#home"
+          <RouterLink
+            :to="{ name: 'home' }"
             class="font-bold font-pacifico text-lg text-primary block py-6"
-            >Muhammad Isa</a
+            >Muhammad Isa</RouterLink
           >
         </div>
         <div class="flex items-center px-4">
@@ -99,7 +99,8 @@
                         fill-rule="evenodd"
                         clip-rule="evenodd"
                         d="M17 3a1 1 0 0 1 1 1 2 2 0 0 0 2 2 1 1 0 1 1 0 2 2 2 0 0 0-2 2 1 1 0 1 1-2 0 2 2 0 0 0-2-2 1 1 0 1 1 0-2 2 2 0 0 0 2-2 1 1 0 0 1 1-1Z"
-                        class="fill-sky-500"></path></svg
+                        class="fill-sky-500"
+                      ></path></svg
                   ></span>
                 </button>
               </li>
